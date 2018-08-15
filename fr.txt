@@ -11,6 +11,11 @@ ncjshC
 MDJSACKLF
 <<<<<<< HEAD
 a01d43f410b912badecd0ff7c74458e383e5aff1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> devlop
 
 
 malik1234
@@ -21,3 +26,7 @@ mk;svvm
 
 q w ee r t
 >>>>>>> 946927ea14374647a3fcaf09a2a82f0d6f6af92e
+<<<<<<< HEAD
+=======
+>>>>>>> facb62d... malik143
+>>>>>>> devlop
